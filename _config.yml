@@ -18,7 +18,7 @@ author: 'Singh'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
-
+exclude: [Rakefile, Gemfile, Gemfile.lock, README.md, vendor]
 url: "https://blog.mrmandeep.me" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards

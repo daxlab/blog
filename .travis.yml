@@ -1,12 +1,18 @@
-before_script: bundle install
-script: bundle exec jekyll build
+before_script:
+  - bundle install
+  - chmod +x ./script/cibuild
+script: ./script/cibuild
 cache: bundler
 language: ruby
 sudo: false
 
 rvm:
-- 2.3.0
+  - 2.3.0
 
 branches:
   only:
   - gh-pages
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer

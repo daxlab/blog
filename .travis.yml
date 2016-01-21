@@ -1,6 +1,6 @@
 before_script: bundle install
 script: bundle exec jekyll build
-#cache: bundler
+cache: bundler
 language: ruby
 sudo: false
 

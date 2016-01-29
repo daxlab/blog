@@ -7,7 +7,7 @@ gems:
 title: "Blog from my cave"
 description: > # this means to ignore newlines until "email:"
 
-email: contact@mrmandeep.me
+email: dev@mrmandeep.me
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
@@ -29,6 +29,20 @@ twitter_handle: '@dMandeepSingh'
 
 # social icons and sharing options
 social:
+  - icon:	github
+    url:	https://github.com/daxlab
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	linkedin
+    url:	https://in.linkedin.com/in/mandeep-singh-sawhney-36aa2b6b
+    desc:	Connect with me on linkedin
+    share_url:
+    share_title:
+    share_link:
+
   - icon:	twitter
     url:	https://twitter.com/dMandeepSingh
     desc: Follow me on twitter
@@ -36,19 +50,26 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://facebook.com/mrmandy007
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/daxlab
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+#- icon:	medium
+#    url:	https://medium.com/@mrmandeep
+#    desc: Follow me on medium
+#    share_url:
+#    share_title:
+#    share_link:
+
+#- icon:	envelope
+#    url:	dev@mrmandeep.me
+#    desc:
+#    share_url:
+#    share_title:
+#    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???

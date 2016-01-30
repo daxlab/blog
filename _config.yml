@@ -64,16 +64,16 @@ social:
     share_title:
     share_link:
 
+  - icon:	google-plus
+    url:	https://plus.google.com/105241480825171083871
+    desc:	Add me on google+
+    share_url: https://plus.google.com/share
+    share_title: "?title="
+    share_link: "&amp;url="
+
   - icon:	envelope
     url:    mailto:dev@mrmandeep.me
     desc:
     share_url:
     share_title:
     share_link:
-
-  - icon:	google-plus
-    url:	https://google.com/???
-    desc:	Add me on google+
-    share_url: https://plus.google.com/share
-    share_title: "?title="
-    share_link: "&amp;url="

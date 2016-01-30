@@ -77,3 +77,9 @@ social:
     share_url:
     share_title:
     share_link:
+
+jekyll-crosspost_to_medium:
+  enabled: true
+  cache: .jekyll-crosspost_to_medium
+  status: public
+  license: all-rights-reserved

@@ -4,7 +4,7 @@ title:  "What is Adagrad ?"
 date:   2016-02-04 09:42:36
 categories: ml
 tags: ml
-crosspost_to_medium: false
+crosspost_to_medium: true
 image: /assets/article_images/desktop.jpg
 ---
 

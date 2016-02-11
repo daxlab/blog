@@ -8,15 +8,15 @@ crosspost_to_medium: true
 image: /assets/article_images/desktop.jpg
 ---
 
-Dropout technique by [Hindon](https://www.cs.toronto.edu/~hinton/) is among recent pioneers in the field of neural network. The main objective
+Dropout technique by [Hinton](https://www.cs.toronto.edu/~hinton/) is among recent pioneers in the field of neural network. The main objective
 behind using Dropout is to tackle the problem of [overfitting](https://en.wikipedia.org/wiki/Overfitting). Dropout achieves this by selectively
 turning off (dropping out) some of the activations in a layer during forward propagation and backpropagating through all activations turned on.
 
 ### Further readings
 
 + [Dropout: A Simple Way to Prevent Neural Networks from Overfitting][paper-link]
-+ [How do you implement a dropout in neural network](quora-link)
-+ [Udacity Deep Learning - Dropout](udacity-link)
++ [How do you implement a dropout in neural network][quora-link]
++ [Udacity Deep Learning - Dropout][udacity-link]
 
 [quora-link]: https://www.quora.com/How-do-you-implement-a-dropout-in-deep-neural-networks
 [paper-link]: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
